@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <title>Resistance training log</title>
+    <day n="1" exercises="3">
+        <arms>
+            <Tricep>
+                <exercise type="Tricep PullDown" sets="3" reps="8" weight="70,60,55"/>
+            </Tricep>
+        </arms>
+        <arms>
+            <Tricep>
+                <exercise type="One Armed Tricep" sets="3" reps="8" weight="25"/>
+            </Tricep>
+        </arms>
+        <arms>
+            <bicep>
+                <exercise type="Bicep Curl" sets="3" reps="8" weight="45,40,35"/>
+            </bicep>
+        </arms>
+    </day>
+    
+    <day n="2" exercises="5">
+        <arms>
+            <back>
+                <exercise type="Lat Pulldown" sets="3" reps="8" weight="90"/>
+            </back>
+        </arms>
+        <arms>
+            <exercise type="Dumbell Curls" sets="3" reps="8" weight="20"/>
+        </arms>
+        <arms>
+            <Shoulder>
+                <chest>
+                    <exercise type="Bench" sets="3" reps="8,8,4" weight="45,65,95"/>
+                </chest>
+            </Shoulder>
+        </arms>
+        <arms>
+            <tricep>
+                <exercise type="Tricep Pulldown" sets="3" reps="8" weight="60"/>
+            </tricep>
+        </arms>
+        <core>
+            <exercise type="Rotary Torso" sets="3" reps="8" weight="110"/>
+        </core>
+    </day>
+    
+    <day n="3" exercises="4">
+        <shoulder>
+            <exercise type="Shoulder Press" sets="3" reps="8" weight="50"/>
+        </shoulder>
+        <chest>
+            <exercise type="Chest Press" sets="3" reps="8" weight="50,45,40"/>
+        </chest>
+        <arms>
+            <back><exercise type="Diverging Seated Row" sets="3" reps="8" weight="130"/>\</back>
+        </arms>
+        <arms>
+            <back>
+                <tricep>
+                    <exercise type="Seated Dip" sets="3" reps="8" weight="130"/>
+                </tricep>
+            </back>
+        </arms>
+    </day>
+    
+    <day n="4" exercises="3">
+        <arms>
+            <back>
+                <tricep>
+                    <exercise type="seated dip" sets="3" reps="8" weight="120"/>
+                </tricep>
+            </back>
+        </arms>
+        <shoulder>
+            <exercise type="Shoulder press" sets="3" reps="8" weights="50"/>
+            <healthnote>getting easier need to up weight next time, low amount of shoulder
+                discomfort</healthnote>
+        </shoulder>
+        <arms>
+            <bicep>
+                <exercise type="Bicep Curl" sets="3" reps="8" weight="50"/>
+            </bicep>
+        </arms>
+    </day>
+    
+    <day n="5" exercises="5">
+        <healthnote>shoulder recovery mode</healthnote>
+        <back>
+            <exercise type="Back Extension" sets="3" reps="8" weight="140"/>
+        </back>
+        <shoulder>
+            <exercise type="Shoulder Press" sets="3" reps="8" weight="30"/>
+        </shoulder>
+        <arms>
+            <shoulder>
+                <back>
+                    <exercise type="Diverge Row" sets="3" reps="8" weight="120"/>
+                </back>
+            </shoulder>
+        </arms>
+        <leg>
+            <exercise type="Leg Press" sets="3" reps="8" weight="180"/>
+        </leg>
+        <core>
+            <exercise type="Rotary Torso" sets="3" reps="8" weight="110"/>
+        </core>
+    </day>
+</root>
+
