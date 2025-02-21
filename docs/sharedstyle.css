@@ -20,9 +20,17 @@ div.flexBot figure {
     background: /*#EFD6F6*/ white;
     ;
 }
+section.top
+{
+    
+}
+section.flexBox
+{
+    
+}
 figure.img
 {
-    margin-right:50%;
+    margin-right:0%;
 }
 img {
 
