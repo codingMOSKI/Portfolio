@@ -53,14 +53,13 @@ h6.big{
     justify-content:space-between;
     align-items:center;
     margin: 0 0 0.47em;
+    
+}
+.bigg{
+    width:400px;
 }
 
 
-
-figure.img
-{
-    margin-right:0%;
-}
 #Iframe{
     border-style:none;padding: 10px; width:640px;height:360px;
 }
@@ -71,6 +70,11 @@ img {
     margin-right:50%;
     background:black;
 
+}
+figure.img
+{
+    width:400px;
+    height:auto;
 }
 figcaption {
     
