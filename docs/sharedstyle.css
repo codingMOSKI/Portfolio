@@ -1,9 +1,9 @@
 ul.list {
-    list-style-type: none;
+    
     margin: 0;
     padding: 0;
-    overflow: hidden;
-    background-color: red;
+    
+    background-color: blue;
 }
 
 .grey
@@ -15,8 +15,8 @@ ul.list li {
 }
 
 .center{
-    display: flex;
-    flex-wrap:wrap;
+    
+    
     justify-content: center;
     
 }
@@ -44,7 +44,7 @@ h6.big{
     justify-content:flex-start;
     justify-content:space-between;
     align-items:center;
-    margin: 0 0 0.47em;
+    
 }
 .split{
     text-align:right;
@@ -93,4 +93,7 @@ li a {
 li a:hover {
     background-color: #111111;
 }
-
+nav{
+    border-style: solid;
+    border-radius: 5px;
+}
